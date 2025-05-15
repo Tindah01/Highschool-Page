@@ -23,12 +23,14 @@ body {
     color: var(--text-color);
     background-color: var(--light-color);
     transition: var(--transition);
+    padding-top:80px;
 }
 
 .container {
     width: 90%;
     max-width: 1200px;
     margin: 0 auto;
+    margin-top: 80px;
 }
 
 /* Header Styles */
